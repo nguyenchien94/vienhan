@@ -1,0 +1,354 @@
+@media only screen and (max-width: 992px) {
+	.row {
+		margin-right: 0;
+	}
+
+	.nav-item {
+		padding: 10px 0;
+		border-bottom: 1px solid #eaeef1;
+		cursor: pointer;
+	}
+
+	.subnav {
+		margin-top: 10px;
+		width: 100%;
+	}
+
+	.subnav-item {
+		width: 100%;
+	}
+
+	.notifi {
+		padding: 15px 10px;
+	}
+
+	.navbar-brand,
+	.notifi {
+		border-right: none;
+	}
+
+	.account {
+		justify-content: center;
+	}
+
+	.sign-in {
+		padding: 10px 100px;
+		background-color: #eaeef1;
+		border-radius: 20px;
+		margin: 0 15px 15px;
+	}
+
+	.sign-up {
+		padding: 2px 80px;
+		background-color: #38a7ff;
+		border-radius: 20px;
+		margin: 0 15px 15px;
+	}
+
+	.introduce-content {
+    	margin-bottom: 30px;
+	}
+
+	img.image-brands-item {
+		margin-bottom: 25px;
+	}
+
+	.reason {
+		margin-top: 30px !important;
+	}
+
+	.card {
+		margin-bottom: 30px;
+	}
+
+	.event-item-button {
+		width: 40%;
+	}
+
+	.event-button {
+		margin: 50px 0;
+	}
+
+	img.questions-img {
+		width: 100%;
+	}
+
+	.questions-content {
+		top: -15px;
+		left: 22%;
+	}
+
+	h2.question-title {
+		font-size: 16px;
+	}
+
+	h2.questions-text {
+		font-size: 35px;
+	}
+
+	h3.library-title {
+		margin-top: 50px;
+	}
+
+	img.library-item-img2,
+	img.library-item-img3 {
+		height: auto;
+	}
+
+	.container-fluid.contact {
+		padding: 0
+	}
+
+	.contacts {
+		padding: 0
+	}
+
+	.contact-item {
+		border: 1px solid #e4e6ea2b;
+		padding: 24px 50px
+	}
+
+	.information-item {
+		margin-bottom: 40px;
+	}
+
+	.container.information {
+		margin-bottom: 0;
+	}
+
+	.container.address {
+		margin-bottom: 0;
+	}
+
+	.address-item {
+		margin-bottom: 30px;
+	}
+
+	.feedback-item-eva {
+		margin-left: 590px;
+	}
+
+	.newspapers-item {
+		height: 250px;
+	}
+
+
+}
+
+@media only screen and (max-width: 576px) {
+	.container-fluid {
+		padding: 0
+	}
+
+	.container {
+		padding: 0
+	}
+
+	.slick-dotted.slick-slider {
+		padding-right: 0;
+	}
+
+	.feedback-client-item {
+		padding: 0 15px 0 15px
+	}
+
+	.introduce {
+		margin-top: 30px;
+	}
+
+	.introduce-content {
+		padding-left: 15px;
+	}
+
+	.introduce-video {
+		padding-left: 13px;
+	}
+
+	.introduce-title {
+		font-size: 25px;
+		padding: 0 10px
+	}
+
+	.introduce-text {
+		font-size: 15px;
+		padding: 0 10px
+	}
+
+	.enterprise {
+		margin-top: 50px;
+	}
+
+	.container.services-text {
+		margin-top: 40px;
+	}
+
+	.services-title {
+		font-size: 28px;
+	}
+
+	.reason-item {
+		padding: 0 15px
+	}
+
+	.container.feedback {
+		margin-top: 30px;
+	}
+
+	p.feedback-title {
+		font-size: 18px;
+	}
+
+	h3.feedback-text {
+		font-size: 20px !important;
+	}
+
+	h2.newspapers-title {
+		font-size: 30px;
+	}
+
+	.col-lg-4.col-md-12 {
+		padding-right: 0;
+	}
+
+	.col-lg-3.col-md-6,
+	.col-lg-4.col-md-6,
+	.col-lg-5.col-md-12 {
+		padding-right: 0;
+		text-align: center;
+	}
+
+	.col-lg-6.col-md-6 {
+		padding-right: 0;
+	}
+
+	.row.informations {
+		padding: 0 15px;
+	}
+
+	.information-item {
+		margin-bottom: 20px;
+	}
+
+	.container.address {
+		margin-top: 30px;
+	}
+
+	.col-lg-2.col-md-6 {
+		padding: 0 20px;
+	}
+
+	.address-item {
+		padding: 0 15px;
+		float: left;
+	}
+
+	.account {
+		justify-content: space-evenly;
+		margin-bottom: 20px;
+	}
+
+	.sign-in {
+		padding: 10px 28px;
+		background-color: #eaeef1;
+		border-radius: 20px;
+		margin: 0
+	}
+
+	.sign-up {
+		padding: 2px 10px;
+		background-color: #38a7ff;
+		border-radius: 20px;
+		margin: 0
+	}
+
+	h1.reason-title {
+		font-size: 24px;
+	}
+
+	.container.thereasons {
+		margin-top: 30px;
+	}
+
+	.reason-item {
+		height: auto;
+		margin-bottom: 30px;
+	}
+
+	p.feedback-title {
+		font-size: 20px;
+	}
+
+	h3.feedback-text {
+		font-size: 25px;
+	}
+
+	h3.event-title {
+		font-size: 30px;
+	}
+
+	.event-button {
+		margin-bottom: 30px;
+		margin-top: 0;
+	}
+
+	.event-item-button {
+		width: 60%;
+	}
+
+	p.questions-name {
+		margin-top: 20px;
+		font-size: 18px;
+	}
+
+	.question-title {
+		margin-top: 0;
+	}
+
+	.questions-content {
+		top: -8px;
+		left: 18%;
+	}
+
+	h2.questions-text {
+		font-size: 20px;
+	}
+
+	.row.question {
+		margin-top: 20px;
+	}
+
+	.container.bottom {
+		padding: 0 15px;
+	}
+
+	.slick-next {
+		display: none!important;
+	}
+
+	.slick-prev {
+		display: none!important;
+	}
+
+	.responsives button.slick-next {
+		display: none!important;
+	}
+
+	.responsives button.slick-prev {
+		display: none!important;
+	}
+
+
+	.feedback-item {
+		height: 460px;
+	}
+
+	.feedback-item-eva {
+		margin-left: 278px;
+		font-size: 8px;
+		top: 60px;
+	}
+
+	h5.feedback-item-name {
+		font-size: 18px;
+	}
+}
